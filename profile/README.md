@@ -9,4 +9,4 @@ Whether we are designing, developing, or providing systems analysis services, ou
 
 We contribute significantly to your company’s operations through our ability to design and develop more robust and more innovative solutions – given our knowledge of the governance and security standards that your company and the industry demands.
 
-Email us at: mailto: connect@fullstackit.ca
+Email us at: connect@fullstackit.ca
